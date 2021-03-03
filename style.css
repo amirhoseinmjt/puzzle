@@ -43,6 +43,7 @@ a#login {
 a#login:hover {
   box-shadow: inset 0px -5px black;
   border: none;
+  /*juytrds*/
 }
 .navbar a {
   border-left: 1px solid rgb(255, 255, 255);
